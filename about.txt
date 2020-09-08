@@ -1,0 +1,4 @@
+A game where you have to select a number between 0-7.
+Then you will get a help if you are wrong, & also have 3 lifes.
+
+by-RifatRobin
